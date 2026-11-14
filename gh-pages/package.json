@@ -24,7 +24,7 @@
     "@mdx-js/react": "^3.0.0",
     "@tailwindcss/postcss": "^4.1.10",
     "clsx": "^2.0.0",
-    "postcss": "^8.5.5",
+    "postcss": "^8.5.33",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
